@@ -1,0 +1,66 @@
+body {
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+.grid {
+    width:900px;
+}
+
+
+#indigo, #lapis, #troiscoleurs, #troiscoleurs, #poussin, #ykb, #admiral, 
+#puigadeau, #frost,#celadon, #monet {
+    margin-top:-8px;
+}
+
+#slideshow {
+    display:inline;
+    width: 700px;
+    height: 400px;
+    background-color:grey;
+    float:left;
+    overflow:hidden;
+}
+
+#rightNav {
+    float:right;
+    margin-top: 200px;
+}
+
+#leftNav {
+    float:left;
+    margin-top: 200px;
+}
+
+/*
+
+#slideshow #slideshowWindow {
+    width:500px;
+    height:257px;
+    margin:0;
+    padding:0;
+    position:relative;
+    overflow:hidden;
+}
+
+#slideshow #slideshowWindow .slide {
+    margin:0;
+    padding:0;
+    width:500px; 
+    height:257px;
+    position:relative;
+}
+
+#slideshow #slideshowWindow .slide .slideText {
+    position:absolute;
+    top:130px;
+    left:0px;
+    width:100%;
+    height:130px;
+    background-image:url(overlay.png);
+    background-repeat:repeat;
+
+    /*<figcaption>Vermeer created these beautiful, rich blues using ground lapis 
+    lazuli. It was the only way to get as intense a blue at that time. As lapis is 
+    incredibly expensive (and forgers rarely bother making blue the same way) 
+    testing the composition of the blue elements of a Vermeer painting is how 
+    they can be authenticated.</figcaption>*/
