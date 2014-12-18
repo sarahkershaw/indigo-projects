@@ -1,4 +1,45 @@
 body {
-	background-image:"https://jardinsgardens.files.wordpress.com/2011/08/shooting_star_tree.jpg";
-	background-position:center;
+  color: #4d4d4d;
+}
+
+p {
+	margin-bottom: 75px;
+	width: 55%;
+}
+
+p::first-letter {
+  font-size: 1.47em;
+   color: #1d1d1d;
+}
+.storyPane {
+  width:65%;
+}
+
+.headerNav {
+
+}
+
+.intro {
+	background-repeat: none;
+	background: url("images/intro_with_finch.jpg");
+	background-color: #558eef;
+}
+
+#finch0 {
+	display:inline;
+	float:left;
+	margin-top: -240px;
+	margin-left: 50%;
+}
+
+.dayOne{
+	background-color: #5d5d5d;
+}
+
+.dayTwo{
+	background-color: #d4e1f6;
+}
+
+.dayThree {
+	background-color: #5d5d5d;
 }
